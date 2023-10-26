@@ -1,0 +1,14 @@
+{
+  "name": "media-server",
+  "version": "1.0.0",
+  "description": "backend -media",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "sachin",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
